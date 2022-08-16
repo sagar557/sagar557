@@ -5,11 +5,15 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 👨‍💻 All of my projects are available at [https://sagar557.github.io/portfolio/](https://sagar557.github.io/portfolio/)
+
 - 📫 How to reach me **choudharysagar215@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar-choudhary-288086247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-choudhary-288086247" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/people/sagar-choudhary/100026181290170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/sagar-choudhary/100026181290170/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/choudharysagar215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/choudharysagar215/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar557&show_icons=true&locale=en" alt="sagar557" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar557&" alt="sagar557" /></p>
-
